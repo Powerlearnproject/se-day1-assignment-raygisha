@@ -25,7 +25,9 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 Waterfall methodology is like a linear flow, one step finishes before the next step starts while agile methadology is more flexible as it focuses on small rapid cycles.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software developer
+Software developer designs, codes, tests and maintains software applcations
+Quality Assurance Engineer ensures that the software meets quality standards and functions as intended, focusing on identifying and fixing issues before the software is released.
+Project Manager oversees the entire software development process ensuring the project is completed on time.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDEs are software platforms that facilitate the creation of other software applications by providing space to write, compile and debug codes. It increases program productivity
